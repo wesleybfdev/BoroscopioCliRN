@@ -11,7 +11,13 @@
   },
   "dependencies": {
     "react": "18.3.1",
-    "react-native": "0.77.0"
+    "react-native": "0.77.0",
+    "react-native-fs": "^2.20.0",
+    "react-native-network-info": "^5.2.1",
+    "react-native-tcp-socket": "^6.2.0",
+    "react-native-udp": "^4.1.7",
+    "react-native-view-shot": "^4.0.3",
+    "react-native-vlc-media-player": "^1.0.78"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
