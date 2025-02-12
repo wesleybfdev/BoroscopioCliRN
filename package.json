@@ -17,7 +17,8 @@
     "react-native-tcp-socket": "^6.2.0",
     "react-native-udp": "^4.1.7",
     "react-native-view-shot": "^4.0.3",
-    "react-native-vlc-media-player": "^1.0.78"
+    "react-native-vlc-media-player": "^1.0.78",
+    "react-native-webview": "^13.13.2"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
